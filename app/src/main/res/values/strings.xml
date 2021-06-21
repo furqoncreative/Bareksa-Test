@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">Barreksa Test</string>
+    <string name="app_name">Bareksa Test</string>
+    <string name="tab_text_1">Imbal Hasil</string>
+    <string name="tab_text_2">Dana Kelolaan</string>
+    <string name="text_perbandingan">Perbandingan</string>
+    <string name="text_back_button">Back Button</string>
+    <string name="text_logo_bareksa">Logo Bareksa</string>
+    <string name="text_splash_ojk">Terdaftar dan diawasi</string>
+    <string name="text_1w">1W</string>
+    <string name="text_1m">1M</string>
+    <string name="text_1y">1Y</string>
+    <string name="text_3y">3Y</string>
+    <string name="text_5y">5Y</string>
+    <string name="text_10y">10Y</string>
+    <string name="text_all">All</string>
+    <string name="text_detail">Detail</string>
+    <string name="txt_beli">Beli</string>
+    <string name="text_tingkat_risiko">Tingkat risiko</string>
+    <string name="text_peluncuran">Peluncuran</string>
+    <string name="text_jangka_waktu">Jangka waktu</string>
+    <string name="text_min_pembelian">Min. pembelian</string>
+    <string name="text_dana_kelolaan">Dana kelolaan</string>
+    <string name="text_imbal_hasil">Imbal hasil</string>
+    <string name="text_jenis_reksa_dana">Jenis Reksa dana</string>
+    <string name="circle_green">Circle Green</string>
+    <string name="sample2">2.5%</string>
+    <string name="sample1">8,53%</string>
+    <string name="sample3">10%</string>
+    <string name="sample_date">(20 Jan 2020)</string>
+    <string name="cicle_purple">Cicle Purple</string>
+    <string name="circle_blue">Circle Blue</string>
+    <string name="icon_reksa_dana">Icon Reksa Dana</string>
 </resources>
