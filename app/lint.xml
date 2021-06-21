@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/ic_ascend.png" />
+        <ignore path="src/main/res/drawable/ic_bni.png" />
+        <ignore path="src/main/res/drawable/ic_ciptadana.png" />
+        <ignore path="src/main/res/drawable/logo_bareksa.jpg" />
+        <ignore path="src/main/res/drawable/logo_ojk.png" />
+    </issue>
+    <issue id="IconXmlAndPng">
+        <ignore path="src/main/res/drawable-xxhdpi/ic_action_back.png" />
+        <ignore path="src/main/res/mipmap-hdpi/ic_launcher.png" />
+        <ignore path="src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+    </issue>
+</lint>

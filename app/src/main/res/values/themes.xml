@@ -26,6 +26,25 @@
         <item name="android:fontFamily">@font/montserrat_semibold</item>
     </style>
 
+    <style name="BoldText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+    </style>
+
+    <style name="NormalText">
+        <item name="android:textColor">@color/soft_black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+    </style>
+
+    <style name="ButtonText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+    </style>
+
+
     <style name="TabTextAppearance" parent="@android:style/TextAppearance.Widget.TabWidget">
         <item name="android:textAllCaps">false</item>
         <item name="android:textSize">14sp</item>
